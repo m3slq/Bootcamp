@@ -11,6 +11,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 **Stack principal:** **Node.js**
 **Ferramentas comuns (assumir como padrão):** npm/ pnpm, Express (quando aplicável), 
 **Observação:** se o contexto indicar outra ferramenta, adapte o plano.
+HTML/CSS
 
 **Regras de stack:**
 
